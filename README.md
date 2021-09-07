@@ -9,14 +9,17 @@
 #### Top Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-Csharp-blueviolet?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-informational?style=for-the-badge&logo=lua&logoColor=white)
 
 <br />
 <br />
 c
-#### Top Framworks
+#### GameEngines and Framworks
 
+![Unity](https://img.shields.io/badge/Unity-lightgrey?style=for-the-badge&logo=unity&logoColor=white)
+![Xamarin.forms](https://img.shields.io/badge/Xamarin.Forms-blue?style=for-the-badge&logo=xamarin&logoColor=white)
 
 #### Profile Visitors
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=UUinc.UUinc)
