@@ -7,7 +7,7 @@
 - 🔭 I’m currently developing with C# and Lua
 - 🌱 I’m currently learning low level programming as well as hardware
 - 📫 How to reach me: https://www.linkedin.com/in/yahyalazrek/
-- ⚡ Fun fact: There are over 700 different programming languages!
+- ⚡ Fun fact: __There are over 700 different programming languages!__
 
 #### Top Languages
 
