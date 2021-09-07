@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi I'm Yahya <img src="https://giphy.com/gifs/nickelodeonintl-transparent-gdkYGV87qlApT6U4KE" width="28px" alt="hi">
 
-<!--
-**UUinc/UUinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👀 I’m interested in game development and mobile applications
+- 🔭 I’m currently developing with C# and Lua
+- 🌱 I’m currently learning low level programming as well as hardware
+- 📫 How to reach me: https://www.linkedin.com/in/yahyalazrek/
+- ⚡ Fun fact: There are over 700 different programming languages!
 
-Here are some ideas to get you started:
+#### Top Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+<br />
+<br />
+c
+#### Top Framworks
+
+
+#### Profile Visitors
+![visitors](https://visitor-badge.glitch.me/badge?page_id=UUinc.UUinc)
+
+#### Github Status
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UUinc&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
