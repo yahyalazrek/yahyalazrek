@@ -1,4 +1,4 @@
-## Hi I'm Yahya <img src="https://giphy.com/gifs/nickelodeonintl-transparent-gdkYGV87qlApT6U4KE" width="28px" alt="hi">
+## Hi I'm Yahya <img src="https://i.pinimg.com/originals/86/9e/7b/869e7bf9d1fd29adbe4190ac4168d709.gif" width="28px" alt="peace">
 
 - 👀 I’m interested in game development and mobile applications
 - 🔭 I’m currently developing with C# and Lua
