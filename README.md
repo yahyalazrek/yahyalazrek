@@ -1,4 +1,6 @@
-## Hi I'm Yahya <img src="https://user-images.githubusercontent.com/63449913/132381293-8f49efb3-eee8-4b98-99f1-1335a9783ef0.gif" width="45px" alt="peace">
+## Hi I'm Yahya <img src="https://user-images.githubusercontent.com/63449913/132381820-24d326af-140d-46da-87db-f53c5871de32.gif" width="40px" alt="peace">
+
+https://user-images.githubusercontent.com/63449913/132381820-24d326af-140d-46da-87db-f53c5871de32.gif
 
 - 👀 I’m interested in game development and mobile applications
 - 🔭 I’m currently developing with C# and Lua
