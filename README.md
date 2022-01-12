@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/63449913/132382559-a72eb4d4-ec95-4947-9258-c862c8a9014e.gif" width="100px" alt="pc">
 
 - 👀 I’m interested in game development and mobile applications
-- 🔭 I’m currently developing with C# and Lua
+- 🔭 I’m currently developing with C# and C++
 - 🌱 I’m currently learning low level programming as well as hardware
 - 📫 How to reach me: https://www.linkedin.com/in/yahyalazrek/
 - ⚡ Fun fact: __There are over 700 different programming languages!__
@@ -13,15 +13,20 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/-Csharp-blueviolet?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-365dbf.svg?style=for-the-badge&logo=C%2B%2B)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-informational?style=for-the-badge&logo=lua&logoColor=white)
 
-<br />
+
+#### IDE
+
+![VSCODE](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio)
 <br />
 
 #### GameEngines and Frameworks
 
-![Unity](https://img.shields.io/badge/Unity-lightgrey?style=for-the-badge&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Xamarin.forms](https://img.shields.io/badge/Xamarin.Forms-blue?style=for-the-badge&logo=xamarin&logoColor=white)
 
 #### Profile Visitors
