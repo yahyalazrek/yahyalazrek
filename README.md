@@ -15,9 +15,8 @@
 <img src="https://user-images.githubusercontent.com/63449913/132381820-24d326af-140d-46da-87db-f53c5871de32.gif" width="60px" alt="peace"> 
 <img src="https://user-images.githubusercontent.com/63449913/132382559-a72eb4d4-ec95-4947-9258-c862c8a9014e.gif" width="100px" alt="pc">
 
-- 👀 I’m interested in game development and mobile applications
-- 🔭 I’m currently developing with C# and C++
-- 🌱 I’m currently learning low level programming as well as hardware
+- 👀 I’m interested in developing games and web applications
+- 🔭 I’m currently developing with C#, C++, JS and PHP
 - 📫 How to reach me: https://www.linkedin.com/in/yahyalazrek/
 - ⚡ Fun fact: __There are over 700 different programming languages!__
 
@@ -27,8 +26,14 @@
 ![C#](https://img.shields.io/badge/-Csharp-blueviolet?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-365dbf.svg?style=for-the-badge&logo=C%2B%2B)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&logo=php&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-informational?style=for-the-badge&logo=lua&logoColor=white)
 
+#### Databases
+
+![MySql](https://img.shields.io/badge/MySQL-2294aa.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSql](https://img.shields.io/badge/-postgreSQL-4c85aa?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### IDE
 
