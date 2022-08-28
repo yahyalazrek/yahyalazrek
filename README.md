@@ -34,6 +34,7 @@
 
 ![MySql](https://img.shields.io/badge/MySQL-2294aa.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSql](https://img.shields.io/badge/-postgreSQL-4c85aa?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003b57?style=for-the-badge&logo=SQLite&logoColor=white)
 
 #### IDE
 
@@ -45,6 +46,7 @@
 
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Xamarin.forms](https://img.shields.io/badge/Xamarin.Forms-blue?style=for-the-badge&logo=xamarin&logoColor=white)
+![Laravel](https://img.shields.io/badge/-laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white)
 
 #### Profile Visitors
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=UUinc.UUinc)
