@@ -45,6 +45,7 @@
 #### GameEngines and Frameworks
 
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5026D5?style=for-the-badge&logoColor=white)
 ![Xamarin.forms](https://img.shields.io/badge/Xamarin.Forms-blue?style=for-the-badge&logo=xamarin&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white)
 
