@@ -25,7 +25,11 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/-Csharp-blueviolet?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-365dbf.svg?style=for-the-badge&logo=C%2B%2B)
+<img src="https://user-images.githubusercontent.com/63449913/198881472-0be71459-b8db-484a-b094-b4f8eb58cdda.png" width="28px" height="28px">
+![Java](https://img.shields.io/badge/-java-ed2026?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-html-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&logo=php&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-informational?style=for-the-badge&logo=lua&logoColor=white)
@@ -42,12 +46,15 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio)
 <br />
 
-#### GameEngines and Frameworks
+#### GameEngines, Frameworks & Tools
 
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5026D5?style=for-the-badge&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5026D5?style=for-the-badge&logo=.net&logoColor=white)
 ![Xamarin.forms](https://img.shields.io/badge/Xamarin.Forms-blue?style=for-the-badge&logo=xamarin&logoColor=white)
+![JQuery](https://img.shields.io/badge/jquery-0769ad?style=for-the-badge&logo=jquery&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-reactjs-57c4e2?style=for-the-badge&logo=react&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-nodejs-80bd00?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### Profile Visitors
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=UUinc.UUinc)
