@@ -55,6 +55,7 @@
 ![Laravel](https://img.shields.io/badge/-laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-reactjs-57c4e2?style=for-the-badge&logo=react&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-nodejs-80bd00?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/-flask-0a1a60?style=for-the-badge&logo=flask&logoColor=white)
 
 #### Profile Visitors
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=UUinc.UUinc)
