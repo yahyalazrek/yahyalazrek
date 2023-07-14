@@ -33,6 +33,7 @@
 ![JS](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![TS](https://img.shields.io/badge/-TypeScript-047bcc?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-kotlin-6a75fa?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-informational?style=for-the-badge&logo=lua&logoColor=white)
 
 #### Databases
@@ -40,6 +41,8 @@
 ![MySql](https://img.shields.io/badge/MySQL-2294aa.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSql](https://img.shields.io/badge/-postgreSQL-4c85aa?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003b57?style=for-the-badge&logo=SQLite&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-f89221?style=for-the-badge&logo=firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-14a050?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### IDE
 
@@ -56,6 +59,7 @@
 ![Laravel](https://img.shields.io/badge/-laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-reactjs-57c4e2?style=for-the-badge&logo=react&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-nodejs-80bd00?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/-express-333331?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/-flask-0a1a60?style=for-the-badge&logo=flask&logoColor=white)
 
 #### Profile Visitors
