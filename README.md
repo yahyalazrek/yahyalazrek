@@ -4,8 +4,8 @@
   <a href="https://github.com/UUinc">
     <img src="https://img.shields.io/github/followers/UUinc?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fyahyalazrek&screen_name=yahya_lz">
-    <img src="https://img.shields.io/twitter/follow/yahya_lz?label=Twitter&logo=twitter&style=for-the-badge" alt="Twitter" />
+  <a href="https://twitter.com/yahya_lz">
+    <img src="https://img.shields.io/badge/-Twitter-gray?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.linkedin.com/in/yahyalazrek/">
     <img src="https://img.shields.io/website?label=Linkedin&logo=Linkedin&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com" alt="Linkedin"/>
@@ -61,9 +61,6 @@
 ![NodeJS](https://img.shields.io/badge/-nodejs-80bd00?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/-express-333331?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/-flask-0a1a60?style=for-the-badge&logo=flask&logoColor=white)
-
-#### Profile Visitors
-![visitors](https://visitor-badge.glitch.me/badge?page_id=UUinc.UUinc)
 
 #### Github Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UUinc&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
