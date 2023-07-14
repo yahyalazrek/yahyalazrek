@@ -15,8 +15,8 @@
 <img src="https://user-images.githubusercontent.com/63449913/132381820-24d326af-140d-46da-87db-f53c5871de32.gif" width="60px" alt="peace"> 
 <img src="https://user-images.githubusercontent.com/63449913/132382559-a72eb4d4-ec95-4947-9258-c862c8a9014e.gif" width="100px" alt="pc">
 
-- 👀 I’m interested in developing games and web applications
-- 🔭 I’m currently developing with C#, C++, JS and PHP
+- 👀 I have a keen interest in game development and web application.
+- 🔭 I develop software using C#, C++, JS, and TS.
 - 📫 How to reach me: https://www.linkedin.com/in/yahyalazrek/
 - ⚡ Fun fact: __There are over 700 different programming languages!__
 
@@ -31,6 +31,7 @@
 ![HTML](https://img.shields.io/badge/-html-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![TS](https://img.shields.io/badge/-TypeScript-047bcc?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&logo=php&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-informational?style=for-the-badge&logo=lua&logoColor=white)
 
