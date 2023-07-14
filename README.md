@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://github.com/UUinc">
-    <img src="https://img.shields.io/github/followers/UUinc?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub" />
+    <img src="https://img.shields.io/badge/-github-gray?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://twitter.com/yahya_lz">
     <img src="https://img.shields.io/badge/-Twitter-gray?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.linkedin.com/in/yahyalazrek/">
-    <img src="https://img.shields.io/website?label=Linkedin&logo=Linkedin&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com" alt="Linkedin"/>
+    <img src="https://img.shields.io/badge/-Linkedin-gray?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
 </p>
 
