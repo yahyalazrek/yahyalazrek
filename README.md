@@ -16,7 +16,7 @@
 <img src="https://user-images.githubusercontent.com/63449913/132382559-a72eb4d4-ec95-4947-9258-c862c8a9014e.gif" width="100px" alt="pc">
 
 - 👀 I have a keen interest in game development and web application.
-- 🔭 I develop software using C#, C++, JS, and TS.
+- 🔭 I develop software using Java, C++, C#, JS, and TS.
 - 📫 How to reach me: https://www.linkedin.com/in/yahyalazrek/
 - ⚡ Fun fact: __There are over 700 different programming languages!__
 
