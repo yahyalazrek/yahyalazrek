@@ -1,7 +1,7 @@
 ## Hi I'm Yahya
 
 <p align="center">
-  <a href="https://github.com/UUinc">
+  <a href="https://github.com/yahyalazrek">
     <img src="https://img.shields.io/badge/-github-gray?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://twitter.com/yahya_lz">
@@ -63,7 +63,7 @@
 ![Flask](https://img.shields.io/badge/-flask-0a1a60?style=for-the-badge&logo=flask&logoColor=white)
 
 #### Github Status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UUinc&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahyalazrek&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.buymeacoffee.com/yahyalazrek" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 33px !important;width: 116px !important;">
